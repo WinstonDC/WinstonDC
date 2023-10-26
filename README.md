@@ -16,7 +16,6 @@
 <ul type="disc" style="margin:0pt; padding-left:0pt;">
     <li style="margin-left:10.06pt; margin-bottom:4pt; padding-left:7.94pt; font-family:serif;"><span style="font-family:Cambria;">Involved in logistical and organizational matters related to document handling, transportation, and storage.</span></li>
 </ul>
-<p style="margin-top:0pt; margin-left:18pt; margin-bottom:4pt; text-indent:-18pt;">&nbsp;</p>
 <h1 style="margin-top:20pt; margin-bottom:3pt; page-break-inside:avoid; page-break-after:avoid; font-size:14pt;"><span style="color:#4e4e4e;">Skills &amp; Abilities</span></h1>
 <h2 style="margin-top:9pt; margin-bottom:5pt; page-break-inside:avoid; page-break-after:avoid; font-size:11pt;"><span style="text-transform:uppercase; color:#191919;">Software</span></h2>
 <ul type="disc" style="margin:0pt; padding-left:0pt;">
